@@ -1220,7 +1220,45 @@ form label {
   opacity: 1;
   right: 0;
 }
-/*.btn-warning {
+
+.button2 {
+  display: inline-block;
+  border-radius: 20px;
+  background-color: #428bca;
+  border: none;
+  color:  #fff;
+  text-align: center;
+  font-size: 14px;
+  padding: 8px;
+  width: 90px;
+  transition: all 0.3s;
+  cursor: pointer;
+  margin: 1px;
+  vertical-align:middle: 30px;
+}
+.button2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.3s;
+}
+.button2 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -12px;
+  transition: 0.3s;
+}
+.button2:hover span {
+  padding-right: 15px;
+}
+.button2:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.btn-warning {
   background: #f0ad4e;
   color: #fff;
   border: 2px solid #f0ad4e;
@@ -1237,7 +1275,7 @@ form label {
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
   background: #f0ad4e;
   color: #fff;
-}*/
+}
 
 .btn-danger {
   background: #d9534f;
