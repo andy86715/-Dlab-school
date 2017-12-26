@@ -1,0 +1,11 @@
+var year = "2018";var month = "3";var day = "25";var hour = "0";var minute = "0";var centi = "5";
+var convert = "0";var roop = "";
+var cnt1 = "天";var cnt2 = "小時";var cnt3 = "分";var cnt4 = "秒";
+var baseoffset = "-8";var cuttime = "";
+var br1 = "";var br2 = "";var br3 = "";var br4 = "";
+var com1 = "還剩下：";var com2 = "";var com3 = "";var com4 = "報名時間截止";var end = "2";
+var width = "250";var height = "60";
+var font = "微軟正黑體";var font2 = "7seg4";var size = "16px";var l_height = "27";var bold = "";var italic = "";var line = "";
+var space = "";
+var align = "1";var img = "";
+var color1 = "666666";var color2 = "00FF00";var color3 = "FFFFFF";
