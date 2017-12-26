@@ -8,4 +8,4 @@ var width = "250";var height = "60";
 var font = "微軟正黑體";var font2 = "7seg4";var size = "16px";var l_height = "27";var bold = "";var italic = "";var line = "";
 var space = "";
 var align = "1";var img = "";
-var color1 = "666666";var color2 = "00FF00";var color3 = "FFFFFF";
+var color1 = "666666";var color2 = "00DD00";var color3 = "FFFFFF";
