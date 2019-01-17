@@ -1,5 +1,6 @@
-###系統位置
-####http://163.14.164.250/studentData<h2>
+系統位置
+http://163.14.164.250/studentData
+
 
 CREDITS:
 
